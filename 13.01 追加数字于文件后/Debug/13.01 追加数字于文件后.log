@@ -1,0 +1,4 @@
+﻿  Exercise13_1.cpp
+D:\C++程序设计\C++第十章\13.01 追加数字于文件后\Exercise13_1.cpp(7,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\C++程序设计\C++第十章\13.01 追加数字于文件后\Exercise13_1.cpp(14,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  13.01 追加数字于文件后.vcxproj -> D:\C++程序设计\C++第十章\Debug\13.01 追加数字于文件后.exe
